@@ -18,6 +18,7 @@ Confira meu <a href="https://eduardostr.github.io/" target="_blank" style="text-
     <a href="https://sass-lang.com/" target="_blank"><img alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
+    <a href="https://react.dev/learn" target="_blank"><img alt="Icone React" src="https://skillicons.dev/icons?i=react"/></a>
     <a href="https://nodejs.org/api/documentation.html" target="_blank"><img alt="Icone NodeJS" src="https://skillicons.dev/icons?i=nodejs"/></a>
     <a href="https://getbootstrap.com/" target="_blank"><img alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/></a>
     <a href="https://git-scm.com/doc" target="_blank"><img alt="Icone Git" src="https://skillicons.dev/icons?i=git"/></a>
