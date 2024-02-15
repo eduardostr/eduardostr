@@ -2,7 +2,7 @@
 
 Sou `Desenvolvedor FullStack Jr` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Confira meu <a href="https://img.freepik.com/vetores-premium/site-em-desenvolvimento-site-em-construcao_106788-2280.jpg?w=740" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
+Confira meu <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
 
 ## Entre em contato através das redes abaixo
 
