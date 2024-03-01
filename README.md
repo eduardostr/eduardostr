@@ -4,6 +4,7 @@ I am `QA analyst and future front-end developer` and passionate about learning n
 
 Check out my <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> of projects
 
+
 ## Get in touch using the networks below
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
