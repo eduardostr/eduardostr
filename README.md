@@ -1,6 +1,6 @@
 ## Hello! My name is Eduardo Rodrigues 🖐️
 
-I am `QA analyst and future front-end developer` and passionate about learning new things, I believe that we must learn more and more and discover new technologies that will be capable of changing the world as we know it. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="250px" width="200px" align="right">
+I am `QA analyst and future front-end developer` and passionate about learning new things, I believe that we must learn more and more and discover new technologies that will be capable of changing the world as we know it. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="280px" width="200px" align="right">
 
 Check out my <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> of projects
 
