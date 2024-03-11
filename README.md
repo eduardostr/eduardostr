@@ -1,15 +1,15 @@
-## Hello! My name is Eduardo Rodrigues 🖐️
+## Olá! Meu nome é Eduardo Rodrigues 🖐️
 
-I am `QA analyst` and passionate about learning new things, I believe that we must learn more and more and discover new technologies that will be capable of changing the world as we know it. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="280px" width="200px" align="right">
+Sou estudante de `Análise e Desenvolvimento de Sistemas` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como o conhecemos. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="280px" width="200px" align="right">
 
-Check out my <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> of projects
+Confira meu <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
 
-## Get in touch using the networks below
+## Entre em contato
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduu.code/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduu.rodriguues/)
 
-## Technologies I use in my day
+## Minhas Habilidades
 <div style="display: inline-block">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
