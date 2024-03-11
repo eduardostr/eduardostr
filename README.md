@@ -3,7 +3,7 @@
 
 Sou um profissional com formação em andamento no curso de `Análise e Desenvolvimento de Sistemas` pela UNINASSAU. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo testes funcionais, testes exploratórios, testes de integração, BDD (Behavior-Driven Development), testes de api, testes de sistemas, escrita e análise de testes.
 
-Confira meu <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
+Confira meu <a href="https://eduardostr.github.io/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
 
 ## Entre em contato comigo através das redes abaixo
 
