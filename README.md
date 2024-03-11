@@ -1,16 +1,16 @@
-## Oieee!!! Meu nome é Eduardo Rodrigues
-### Seja bem-vindo(a) a meu humilde perfil. 😁<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+## Hieeee!!! My name is Eduardo Rodrigues
+### Welcome to my humble profile. 😁<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Sou estudante de `Análise e Desenvolvimento de Sistemas` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
+I am a student of `Analysis and systems development` and passionate about learning new things, I believe that we should learn more and more and discover new technologies that will be capable of changing the world as we know it.
 
-Confira meu <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
+Check out my <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> of projects
 
-## Entre em contato
+## Contact
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduu.rodriguues/)
 
-## Minhas Habilidades
+## My skills
 <div style="display: inline-block">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
