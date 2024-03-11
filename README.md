@@ -1,7 +1,7 @@
 ## Olá pessoas👋!!! Meu nome é Eduardo Rodrigues
-### Bem-vindo ao meu perfil. <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="ilustração de um dev codando" min-width="200px" max-width="200px" width="200px" align="right">
+### Bem-vindo ao meu perfil. <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" alt="ilustração computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Sou um profissional com formação em andamento no curso de `Análise e Desenvolvimento de Sistemas` pela UNINASSAU. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.
+Sou um profissional com formação em andamento no curso de `Análise e Desenvolvimento de Sistemas` pela UNINASSAU. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo testes funcionais, testes exploratórios, testes de integração, BDD (Behavior-Driven Development), testes de api, testes de sistemas, escrita e análise de testes.
 
 Confira meu <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
 
