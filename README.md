@@ -1,6 +1,7 @@
-## Olá! Meu nome é Eduardo Rodrigues 🖐️
+## Oieee!!! Meu nome é Eduardo Rodrigues
+### Seja bem-vindo(a) a meu humilde perfil. 😁<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Sou estudante de `Análise e Desenvolvimento de Sistemas` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como o conhecemos. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="280px" width="200px" align="right">
+Sou estudante de `Análise e Desenvolvimento de Sistemas` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
 
 Confira meu <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
 
