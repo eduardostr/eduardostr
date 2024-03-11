@@ -1,16 +1,16 @@
-## Hieeee!!! My name is Eduardo Rodrigues
-### Welcome to my humble profile. 😁<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+## Olá pessoas👋!!! Meu nome é Eduardo Rodrigues
+### Bem-vindo ao meu perfil. <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="ilustração de um dev codando" min-width="200px" max-width="200px" width="200px" align="right">
 
-I am a student of `Analysis and systems development` and passionate about learning new things, I believe that we should learn more and more and discover new technologies that will be capable of changing the world as we know it.
+Sou um profissional com formação em andamento no curso de `Análise e Desenvolvimento de Sistemas` pela UNINASSAU. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.
 
-Check out my <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> of projects
+Confira meu <a href="http://www.dbbfestas.com.br/?q=propaganda-gratis-tuum.com.br&n=1185&p=" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
 
-## Contact
+## Entre em contato comigo através das redes abaixo
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduu.rodriguues/)
 
-## My skills
+## Minhas habilidades
 <div style="display: inline-block">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
