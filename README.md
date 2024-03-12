@@ -1,16 +1,22 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8749F2&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Meu+nome+%C3%A9+Eduardo+Rodrigues;E+sou+de+Lauro+de+Freitas+-+BA)](https://git.io/typing-svg)
+
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8749f2&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+EDUARDO+RODRIGUES;I'm+24+years+old;I+am+from+Brazil,+Bahia;)](https://git.io/typing-svg)
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" alt="ilustração computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Sou um profissional com formação em andamento no curso de `Análise e Desenvolvimento de Sistemas` pela UNINASSAU. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo testes funcionais, testes exploratórios, testes de integração, BDD (Behavior-Driven Development), testes de api, testes de sistemas, escrita e análise de testes.
+I am a professional with ongoing training in the `Analysis and systems development` for the UNINASSAU. My technical skills and experience are centered in the area of software testing, with knowledge in several approaches, including functional testing, exploratory testing, integration testing, BDD (Behavior-Driven Development), api testing, systems testing, writing and analysis of tests.
 
-Confira meu <a href="https://eduardostr.github.io/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
+Check out my <a href="https://eduardostr.github.io/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> of projects
 
-## Entre em contato comigo através das redes abaixo
+## 📫 How to reach me:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduu.rodriguues/)
 
-## Minhas habilidades
+## 🛠️ My Tech Stack:
 <div style="display: inline-block">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
