@@ -1,5 +1,5 @@
-## Olá pessoas👋!!! Meu nome é Eduardo Rodrigues
-### Bem-vindo ao meu perfil. <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" alt="ilustração computador" min-width="200px" max-width="200px" width="200px" align="right">
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8749F2&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Meu+nome+%C3%A9+Eduardo+Rodrigues;E+sou+de+Lauro+de+Freitas+-+BA)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" alt="ilustração computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 Sou um profissional com formação em andamento no curso de `Análise e Desenvolvimento de Sistemas` pela UNINASSAU. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo testes funcionais, testes exploratórios, testes de integração, BDD (Behavior-Driven Development), testes de api, testes de sistemas, escrita e análise de testes.
 
