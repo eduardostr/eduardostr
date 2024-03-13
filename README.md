@@ -9,7 +9,7 @@
 
 I am a professional with ongoing training in the `Analysis and systems development` for the UNINASSAU. My technical skills and experience are centered in the area of software testing, with knowledge in several approaches, including functional testing, exploratory testing, integration testing, BDD (Behavior-Driven Development), api testing, systems testing, writing and analysis of tests.
 
-Check out my <a href="https://eduardostr.github.io/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> of projects
+Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> of projects
 
 ## 📫 How to reach me:
 
