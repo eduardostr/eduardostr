@@ -18,10 +18,12 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" style="t
 <div style="display: inline-block">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
+    <a href="https://getbootstrap.com/" target="_blank"><img alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/></a>
     <a href="https://nodejs.org/api/documentation.html" target="_blank"><img alt="Icone NodeJS" src="https://skillicons.dev/icons?i=nodejs"/></a>
+    <a href="https://cucumber.io/docs/gherkin/reference/" target="_blank"><img alt="Icone Gherkin" src="https://skillicons.dev/icons?i=gherkin"/></a>
     <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"><img alt="Icone Cypress" src="https://skillicons.dev/icons?i=cypress"/></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/></a>
+    <a href="https://www.selenium.dev/documentation/" target="_blank"><img alt="Icone Selenium" src="https://skillicons.dev/icons?i=selenium"/></a>
     <a href="https://git-scm.com/doc" target="_blank"><img alt="Icone Git" src="https://skillicons.dev/icons?i=git"/></a>
     <a href="https://dev.mysql.com/doc/" target="_blank"><img alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/></a>
     <a href="https://www.mongodb.com/docs/" target="_blank"><img alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/></a>
