@@ -12,7 +12,7 @@ Confira meu <a href="https://edurodrigues.vercel.app/" target="_blank" style="te
 ## 📫 Fale comigo através das redes abaixo:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduu.rodriguues/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduuardodrm/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yarnadd_edu)
 
 ## 🛠️ Tecnologias:
