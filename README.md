@@ -1,55 +1,124 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8749f2&height=120&section=header"/>
+## About me
+I am a QA professional, with ongoing training in `Analysis and systems development` by UNINASSAU. My technical skills and experience are focused on the area of ​​software testing, with knowledge in different approaches, including manual and automated testing, exploratory and regression testing, writing test scenarios with BDD, API and integration testing.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8749f2&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Eduardo+Rodrigues+💁‍♂️+;Moro+em+Lauro+de+Freitas,+Bahia,+Brasil+🗺;E+sou+Analista+QA+🕵️‍👨‍💻;Seja+bem-vindo(a)!+🥰)](https://git.io/typing-svg)
+Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
 
+<div align="center">
+  <a href="https://github.com/eduardostr">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardostr&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardostr&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" alt="ilustração computador" min-width="200px" max-width="200px" width="200px" align="right">
+## Skills and Technologies
 
-Sou um profissional da área de QA, com formação em andamento em `Análise e desenvolvimento de sistemas` pela UNINASSAU. As minhas competências técnicas e experiência estão centradas na área de testes de software, com conhecimentos em diversas abordagens, incluindo testes manuais e automatizados, testes exploratórios e de regressão, escrita de cenários de testes com BDD, testes de API e de integração.
+<details>
+  <summary>
+    <a>Languages</a>
+  </summary>
 
-Confira meu <a href="https://edurodrigues.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
+  <a name="language"></a>
+  
+  - Python
+  - JavaScript
+</details>
 
-## 📫 Fale comigo através das redes abaixo:
+<details>
+  <summary>
+    <a>Automation Frameworks</a>
+  </summary>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduuardodrm/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yarnadd_edu)
+  <a name="framework"></a>
+  
+  - Robot Framework
+  - Cypress
+</details>
 
-## 🛠️ Tecnologias:
-<h3>Linguagens:</h3>
-<div style="display: inline-block">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Icone JavaScript"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52""/></a>
-    <a href="https://docs.python.org/3/" target="_blank"><img alt="Icone Python" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" height="40" width="52""/></a>
-    <a href="https://dev.mysql.com/doc/" target="_blank"><img alt="Icone MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52""/></a>
-    <a href=""><img alt="Icone SQLServer" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52""/></a>
-    <a href="https://www.mongodb.com/docs/"><img alt="Icone MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52""/></a>
-    <a href="https://cucumber.io/docs/gherkin/reference/"><img alt="Icone Gherkin" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cucumber/cucumber-plain.svg" height="40" width="52""/></a>
+<details>
+  <summary>
+    <a>Performance Testing</a>
+  </summary>
 
-<h3>Automação:</h3>
-    <a href="https://docs.cypress.io/guides/getting-started/installing-cypress" target="_blank"><img alt="Icone Cypress" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40""/></a>
-    <a href="https://robotframework.org/"><img alt="Icone Robot" src="https://www.svgrepo.com/show/374049/robotframework.svg" height="40" width="52""/></a>
-    <a href="https://www.selenium.dev/documentation/"><img alt="Icone Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="40" width="52""/></a>
-    <a href="https://learning.postman.com/docs/introduction/overview/"><img alt="Icone Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" "/></a>
-    <a href="https://appium.io/docs/en/latest/"><img alt="Icone Appium" src="https://www.svgrepo.com/show/353413/appium.svg" height="40" width="52""/></a>
-    <a href="https://k6.io/docs/"><img alt="Icone k6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" height="40" width="52""/></a>
+  <a name="performance"></a>
+  
+  - JMeter
+  - K6
+</details>
 
-<h3>Front-end:</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="Icone HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52""/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="Icone CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52""/></a>
-    <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img alt="Icone Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52""/></a>
-    <a href="https://nextjs.org/docs"><img alt="Icone NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52""/></a>
-    <a href="https://sass-lang.com/documentation/"><img alt="Icone SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52""/></a>
-    <a href="https://v2.tailwindcss.com/docs"><img alt="Icone TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52""/></a>
+<details>
+  <summary>
+    <a>CI/CD</a>
+  </summary>
 
-<h3>Outros:</h3>
-    <a href="https://go2docs.graylog.org/5-2/home.htm"><img alt="Icone GrayLog" src="https://www.svgrepo.com/show/353838/graylog-icon.svg" height="40" width="52""/></a>
-    <a href="https://git-scm.com/doc"><img alt="Icone Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52""/></a>
-    <a href="https://docs.docker.com/"><img alt="Icone Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" height="40" width="52""/></a>
-    <a href="https://www.jenkins.io/sigs/docs/"><img alt="Icone Jenkins" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jenkins-Dark.svg" height="40" width="52""/></a>
-    <a href="https://code.visualstudio.com/docs"><img alt="Icone vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52""/></a>
-    <a href="https://confluence.atlassian.com/jira"><img alt="Icone Jira" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg" height="40" width="52""/></a>
+  <a name="cicd"></a>
+  
+  - Git
+  - GitHub Action
+  - Azure DevOps
+  - GitLab
+</details>
 
-## Git Stats
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardostr&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostr&layout=compact&show_icons=true&theme=dracula)
-<div></div>
+<details>
+  <summary>
+    <a>Data bases</a>
+  </summary>
+
+  <a name="database"></a>
+  
+  - NoSQL: MongoDB
+  - SQL: MySQL and PostgreSQL 
+</details>
+
+<details>
+  <summary>
+    <a>Other tools</a>
+  </summary>
+
+  <a name="tools"></a>
+  
+  - Postman
+  - Insomnia
+</details>
+
+## Certifications
+
+<details>
+  <summary>
+    <a>Asociación Internacional de Calidad de Software (AICS)</a>
+  </summary>
+
+  <a name="aics"></a>
+  
+  - [Acesse o certificado digital](https://edurodrigues.vercel.app/Certificados-AICS)
+</details>
+
+## Find me on social media:
+
+<details>
+  <summary>
+    <a>Linkedin</a>
+  </summary>
+
+  <a name="linkedin"></a>
+  
+  - [Meu Linkedin](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
+</details>
+
+<details>
+  <summary>
+    <a>Instagram</a>
+  </summary>
+
+  <a name="instagram"></a>
+  
+  - [Meu Instagram](https://www.instagram.com/eduuardodrm/)
+</details>
+
+<details>
+  <summary>
+    <a>Twitter</a>
+  </summary>
+
+  <a name="twitter"></a>
+  
+  - [Meu Twitter](https://twitter.com/yarnadd_edu)
+</details>
