@@ -112,13 +112,3 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noo
   
   - [Meu Instagram](https://www.instagram.com/eduuardodrm/)
 </details>
-
-<details>
-  <summary>
-    <a>Twitter</a>
-  </summary>
-
-  <a name="twitter"></a>
-  
-  - [Meu Twitter](https://twitter.com/yarnadd_edu)
-</details>
