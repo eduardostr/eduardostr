@@ -1,5 +1,5 @@
 ## About me
-I am a QA professional, with ongoing training in `Analysis and systems development` by UNINASSAU. My technical skills and experience are focused on the area of ​​software testing, with knowledge in different approaches, including manual and automated testing, exploratory and regression testing, writing test scenarios with BDD, API and integration testing.
+Hello, my name is Eduardo Rodrigues and I was born in Lauro de Freitas. I am currently a `Systems Analysis and Development` student at UniNassau. I consider myself a technology enthusiast and I love the challenge of finding innovative and creative solutions to complex problems.
 
 Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
 
