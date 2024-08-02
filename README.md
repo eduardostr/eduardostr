@@ -1,7 +1,7 @@
 ## About me
 Hello, my name is Eduardo Rodrigues and I was born in Lauro de Freitas. I am currently a `Systems Analysis and Development` student at UniNassau. I consider myself a technology enthusiast and I love the challenge of finding innovative and creative solutions to complex problems.
 
-Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
+Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
 
 <div align="center">
   <a href="https://github.com/eduardostr">
