@@ -103,5 +103,5 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noo
 
   <a name="instagram"></a>
   
-  - [Meu Instagram](https://www.instagram.com/eduuardodrm/)
+  - [Meu Instagram](https://www.instagram.com/eduuuardorodrigues/)
 </details>
