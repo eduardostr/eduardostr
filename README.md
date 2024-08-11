@@ -3,12 +3,6 @@ Hello, my name is Eduardo Rodrigues and I was born in Lauro de Freitas. I am cur
 
 Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
 
-<div align="center">
-  <a href="https://github.com/eduardostr">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardostr&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardostr&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-
 ## Skills and Technologies
 
 <details>
@@ -19,7 +13,6 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noo
   <a name="language"></a>
   
   - Python
-  - JavaScript
 </details>
 
 <details>
@@ -30,7 +23,6 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noo
   <a name="framework"></a>
   
   - Robot Framework
-  - Cypress
 </details>
 
 <details>
@@ -65,7 +57,7 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noo
   <a name="database"></a>
   
   - NoSQL: MongoDB
-  - SQL: MySQL and PostgreSQL 
+  - SQL: MySQL and PostgreSQL
 </details>
 
 <details>
@@ -76,7 +68,8 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noo
   <a name="tools"></a>
   
   - Postman
-  - Insomnia
+  - Pentaho
+  - Azure Data Studio
 </details>
 
 ## Certifications
