@@ -93,7 +93,7 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noo
 
   <a name="linkedin"></a>
   
-  - [Meu Linkedin](https://www.linkedin.com/in/eduardo-rodrigues-368870293/)
+  - [Meu Linkedin](https://www.linkedin.com/in/eduardostr-db/)
 </details>
 
 <details>
