@@ -1,5 +1,5 @@
 ## About me
-Hello, my name is Eduardo Rodrigues and I was born in Lauro de Freitas. I am currently a `Systems Analysis and Development` student at UniNassau. I consider myself a technology enthusiast and I love the challenge of finding innovative and creative solutions to complex problems.
+Hello, I am Eduardo. I am dedicated and curious systems analyst with excellent communication skills and a passion for learning. My focus is always on maintaining high code quality and ensuring reusability. As a determined worker. I am committed to meeting deadlines and sharing my knowledge with my team.
 
 Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
 
