@@ -57,7 +57,7 @@ Check out my <a href="https://edurodrigues.vercel.app/" target="_blank" rel="noo
   <a name="database"></a>
   
   - NoSQL: MongoDB
-  - SQL: MySQL and PostgreSQL
+  - SQL: SQL Server, MySQL and PostgreSQL
 </details>
 
 <details>
