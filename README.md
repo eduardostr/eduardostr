@@ -1,7 +1,7 @@
 ## About me
-Hello, I am Eduardo. I am dedicated and curious systems analyst with excellent communication skills and a passion for learning. My focus is always on maintaining high code quality and ensuring reusability. As a determined worker. I am committed to meeting deadlines and sharing my knowledge with my team.
+Dedicated Systems Analyst, with experience in test automation and ETL execution for data processing. Focus on software quality and process optimization, with solid knowledge in SQL and Python.
 
-Check out my <a href="https://github.com/eduardostr" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
+Check out my <a href="https://edurodriguestech.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
 
 ## Skills and Technologies
 
@@ -23,6 +23,10 @@ Check out my <a href="https://github.com/eduardostr" target="_blank" rel="noopen
   <a name="framework"></a>
   
   - Robot Framework
+  - Cypress
+  - Appium
+  - Codecept
+  - Playwright
 </details>
 
 <details>
@@ -103,5 +107,5 @@ Check out my <a href="https://github.com/eduardostr" target="_blank" rel="noopen
 
   <a name="instagram"></a>
   
-  - [Meu Instagram](https://www.instagram.com/eduuuardorodrigues/)
+  - [Meu Instagram](https://www.instagram.com/iameduardolife/)
 </details>
