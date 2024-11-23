@@ -76,18 +76,6 @@ Check out my <a href="https://edurodriguestech.vercel.app/" target="_blank" rel=
   - Azure Data Studio
 </details>
 
-## Certifications
-
-<details>
-  <summary>
-    <a>Asociación Internacional de Calidad de Software (AICS)</a>
-  </summary>
-
-  <a name="aics"></a>
-  
-  - [Acesse o certificado digital](https://edurodrigues.vercel.app/Certificados-AICS)
-</details>
-
 ## Find me on social media:
 
 <details>
