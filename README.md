@@ -1,5 +1,8 @@
 ## About me
-Dedicated Systems Analyst, with experience in test automation and ETL execution for data processing. Focus on software quality and process optimization, with solid knowledge in SQL and Python.
+Hello, my name is Eduardo.
+I have always been passionate about technology since I was a child, which led me to pursue a career in the field. I am currently studying Systems Analysis and Development at UniNassau.
+
+My objective is to contribute to technology teams and companies, ensuring that they meet the highest standards of quality and excellence.
 
 Check out my <a href="https://edurodriguestech.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #ff5733;">`portfolio`</a> of projects
 
@@ -13,6 +16,7 @@ Check out my <a href="https://edurodriguestech.vercel.app/" target="_blank" rel=
   <a name="language"></a>
   
   - Python
+  - Javascript
 </details>
 
 <details>
