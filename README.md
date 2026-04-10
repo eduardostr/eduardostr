@@ -1,41 +1,27 @@
-## 👋 Hello, I'm Eduardo!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=header"/>
 
-🎓 I'm currently a student at **Uninassau**, pursuing a degree in **Systems Analysis and Development**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Eduardo+Rodrigues+😊+;I'm+from+Brazil,+Bahia+-+BA+🗺;I+am+a+Web+Developer+and+IT+support+🕵️‍👨‍💻;Be+Welcome!+🥰)](https://git.io/typing-svg)
 
-💡 I'm passionate about **technology as a tool to simplify and transform everyday tasks**. I believe that with the right solutions, we can turn complex and time-consuming processes into something **more intuitive, efficient, and intelligent**.
+I consider myself a tech enthusiast, always on the lookout for innovations and effective solutions for every project I’m involved in. I’m proactive, communicative, and an expert in providing technical support to end users in corporate environments, always striving for quality, courtesy, and efficiency.
 
-🚀 My goal is to create solutions that **optimize results, save time**, and bring **innovation** into the daily lives of people and businesses.
+My goal is to achieve the best results and the highest quality in communication. I am committed to providing prompt and effective service to ensure positive feedback and satisfaction among the users of the environment in which I work.
 
-📚 I'm always learning and looking for ways to improve my skills — especially in areas where I can build impactful and practical applications.
+🚀 **Current Role**: IT Support at GubolinCo
 
----
+🎓 **CEO of [ESRTechInside](https://esrtechinside.vercel.app/)**: My agency for website and landing page design
 
-### 🛠️ Technologies I'm exploring:
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/doc/)
-[![Pentaho](https://img.shields.io/badge/Pentaho-E23237?style=for-the-badge&logo=pentaho&logoColor=white)](https://docs.hitachivantara.com/r/en-us/pentaho-data-integration-and-analytics/9.5.x/mk-95pdia003)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://learn.microsoft.com/pt-br/sql/sql-server/what-is-sql-server?view=sql-server-ver17)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://learning.postman.com/docs/)
+💼 **Open to Collaborate On**: Projects using React, Tailwind, Node.js, and beyond. I’m especially interested in innovative ideas in the web and mobile spaces.
 
----
+🛠️ **Tech Stack**:
+- **Frontend**: React, Next.js, React Native, Tailwind, Styled Components, HTML, CSS.
+- **Backend**: Node.js.
 
-### 📈 GitHub Stats
+💬 A bit about me: I’ve always been captivated by technology, and as a lifelong gamer 🎮, I’m passionate about creating immersive experiences for users.
 
-<div align="Left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardostr&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardostr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
+Looking forward to connecting, collaborating, and building amazing things together!
+
+<div align="left">
+<h3>Contact-me:</h3>
+<a href="edusantr@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/eduardo-rodrigues-431127380/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rodrigues-431127380/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosantosrodrigues.10@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edurodriguesdr)
-
----
-
-🧠 *“Learning never exhausts the mind, it only ignites it.”*
