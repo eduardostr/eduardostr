@@ -8,7 +8,7 @@ My goal is to achieve the best results and the highest quality in communication.
 
 🚀 **Current Role**: IT Support at GubolinCo
 
-🎓 **CEO of [ESRTechInside](https://esrtechinside.vercel.app/)**: My agency for website and landing page design
+🎓 **Owner of [ESRTechInside](https://esrtechinside.vercel.app/)**: My agency for website and landing page design
 
 💼 **Open to Collaborate On**: Projects using React, Tailwind, Node.js, and beyond. I’m especially interested in innovative ideas in the web and mobile spaces.
 
