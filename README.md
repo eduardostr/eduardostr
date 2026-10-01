@@ -22,6 +22,6 @@ Looking forward to connecting, collaborating, and building amazing things togeth
 
 <div align="left">
 <h3>Contact-me:</h3>
-<a href="edusantr@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="eduardosantosrodrigues.10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/eduardo-rodrigues-431127380/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
